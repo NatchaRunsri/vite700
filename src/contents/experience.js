@@ -2,8 +2,8 @@ import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icon
 import picExp from "../assets/exp1.png";
 export const data = [
     {
-        date: "2020-2021",
-        title: "Fullstackkk · Sport Analysis System",
+        date: "2020-2024",
+        title: "Full Stack Developer · Sport Analysis System",
         link: "http://localhost:5173/vite700/",
         materials: [
             { type: faGithub, link: "http://localhost:5173/vite700/" },
@@ -21,7 +21,7 @@ export const data = [
     },
     {
         date: "2022-2023",
-        title: "Fullstack · Sport Analysis System",
+        title: "Full Stack Developer · Sport Analysis System",
         link: "http://localhost:5173/vite700/",
         materials: [
             { type: faGithub, link: "http://localhost:5173/vite700/" },
